@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en" >
+
+<head>
+  <meta charset="UTF-8">
+  <title>PDF_QR</title>
+  
+  
+  <link rel='stylesheet' href='http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css'>
+  <link rel="stylesheet" href="{{ url_for('static',filename='css2/style.css')}}">
+
+  
+</head>
+
+<body style="background-color:#004400">
+
+  <h1>PDF QR GENERATION</h1> <br><br>
+
+  <h4>Please choose a pdf file from your desktop</h4>
+<div class="container">
+   <form action="home" method="post"> <!-- enctype="multipart/form-data" -->
+  <div class="form-group">
+    <input type="file" name="myfile" class="file"><br>
+		<div class="input-group col-xs-12">
+      <span class="input-group-addon"><i class="glyphicon glyphicon-tasks"></i>
+      </span>
+      <input type="text" class="form-control input-lg" disabled placeholder="Upload File" name="filename">
+      <span class="input-group-btn">
+        <button class="browse btn btn-primary input-lg" type="button"><i class="glyphicon glyphicon-search"></i> Browse</button>
+      </span>
+    </div> <br><br>
+    <center><button type= "submit" name="text_save" class="btn btn-success btn-lg ">GENERATE QR_PDF FILE</button></center>
+  </div>
+  </form>
+</div>
+<br><br>
+<center><button style="background-color: green" type="button" class="btn btn-success btn-block btn-lg" onclick="location.href='/list';">View files generated</button></center>
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js'></script>
+<script src='http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js'></script>
+
+  
+
+    <script  src="{{ url_for('static',filename='js2/index.js')}}"></script>
+
+
+
+
+</body>
+
+</html>
