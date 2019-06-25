@@ -210,5 +210,6 @@ print(name_add)
 basename="vedarth_solutions_"
 mdate=datetime.datetime.now()
 timestr = mdate.strftime("%d-%b-%Y-%H:%M:%S")
-filename="/home/ujjwal/pdf_to_text/excel_created/"+basename+timestr+".xls"
+dirpath = os.getcwd()
+filename=dirpath+"/excel_created/"+basename+timestr+".xls"
 wb.save(filename)

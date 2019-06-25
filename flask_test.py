@@ -96,7 +96,8 @@ def home_test():
 # @app.route('/<path:req_path>')
 @app.route("/list",methods = ['POST', 'GET'])
 def dir_listing():
-    files=os.listdir("/home/ujjwal/pdf_to_text/excel_created")
+    dir=os.getcwd()
+    files=os.listdir(dir+"/excel_created")
     return render_template('list.html',files=files)
 
 # @app.route('/file-downloads/')
