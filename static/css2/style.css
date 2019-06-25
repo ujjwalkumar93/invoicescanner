@@ -7,12 +7,12 @@
  * Styles for demo only
  */
 body {
-  background-color: #5c4084;
+  background-color: #4b4c9d;
   margin: 50px;
 }
 
 .container {
-  background-color: #fff;
+  background-color: #4b4c9d;
   padding: 40px 80px;
   border-radius: 8px;
 }
@@ -37,15 +37,15 @@ h4 {
 }
 
 .btn.btn-primary {
-  background-color: #5c4084;
+  background-color: #5e64ff;
   border-color: #5c4084;
   outline: none;
 }
 .btn.btn-primary:hover {
-  background-color: #442f62;
+  background-color: #5e64ff;
   border-color: #442f62;
 }
 .btn.btn-primary:active, .btn.btn-primary:focus {
-  background-color: #684895;
+  background-color: #5e64ff;
   border-color: #684895;
 }

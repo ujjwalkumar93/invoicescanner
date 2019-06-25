@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script> 
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
 </head>
 <body>
 <div align="center">
@@ -16,11 +16,12 @@
 	</tr>
 	<tbody>
 	<!-- <?php foreach($result['Contents'] as $object): ?>
-	 -->
+	 -->{% for file in files: %}
 	 <tr>
-		<td><!-- <?php echo $object['Key']; ?> -->&nbsp&nbsp&nbsp</td>
-		<td><br><a href="<?php echo $s3->getObjectUrl($bucket,$object['Key']);?>" class="list-group-item">Download</a></br></td>
-	</tr>
+		<td>{{ file }}<!-- <?php echo $object['Key']; ?> -->&nbsp&nbsp&nbsp</td>
+		<td><br><!-- <a href="{{ file}}" download class="list-group-item">Download</a> --><a class="list-group-item" href=/excel_created/{{  file }} target="_blank"  style="margin-right: 5px;">Download</a>
+		</br></td>
+	</tr>{%endfor%}
 	<!-- <?php endforeach;?> -->
 	</tbody>
 </table>
@@ -31,4 +32,4 @@
     <script  src="js/index.js"></script>
 
 </body>
-</html
+</html>

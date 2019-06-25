@@ -1,107 +1,198 @@
-                            
+MUNGI ENGINEERS PVT LTD B12
 
-“Orient Plaza” Ramtekdi Road, Oﬃce No 204 & 205 , Near AIPT, Hadapsar, PUNE-411013, Mobile :  8605906565,
-9404614982, 8793318185, 09371672785,  Email: sales@valiantindia.in, oﬃce@valiantindia.in
+ORIGINAL FOR RECIPIENT
 
-Original for Recipient
+B-12, PHASE-IICHAKAN INDUSTRIAL AREA, CHAKAN - 410501
 
- 
+Tel. :  / 
 
-Tax Invoice
+Fax : 
 
- 
+C.I.N. :
+PAN No. :
 
-VI/18-19/4139
+U28910MH2004PTC146663
+AAECM0828M
 
-Customer Name
+E-mail:corporate.marketing@mungiindia.com
 
-Address
+Website : www.mungigroup.com
 
-TATA MOTORS
-LIMITED
-CTED Pimpri Plant, 
-Vendor Code-V66790 
-Pune: 411 019,India 
-Maharashtra, State Code: 27 
-GSTIN: 27AAACT2727Q1ZW 
+TAX INVOICE
 
-27AHKPM0261E1ZK
+GSTIN Number :
+Transportation Mode :
+Place of Supply :
+Commodities :
+HSN / SAC Code No. :
+Tax Is Payable On Reverse Charge : No
 
-Our GSTIN
-Invoice No:      VI/18-19/4139
-Invoice Date
-Customer PO
-PO Date
+27AAECM0828M1Z9
+BY ROAD TEMPO
+PUNE
+M.V. PARTS
+87081090
 
-07.06.2019
-2510200185
-19.01.2019
+Vendor Code :
+Invoice Number :
+Invoice Date :
+Date & Time of Supply :
+Vehicle No :
+L.R. No :
+Order No. & Date :
 
-Sr
+M73521
+1926002121
+15/04/2019
+15/04/2019
+MH-14-EM-9205
+
+ 7:50:43 am
+
+1510193639
+
+24/04/2018
+
+Details of Receipient (Billed to)
+TATA MOTORS LIMITED
+PASSENGER CAR BUSINESS UNIT,
+SECTOR NO.15&15A, PCMTDA, CHIKHALI,
+DIST PUNE,410501
+MAHARASHTRA
+GSTIN :
+
+27AAACT2727Q1ZW
+
+27
+
+Sr. No.
+
+Part No.
+
+Name of Goods
+
+Qty
+
+Details of Consignee (Shipped to Address of delivery)
+TATA MOTORS LIMITED
+PASSENGER CAR BUSINESS UNIT,
+SECTOR NO.15&15A,,PCMTDA, CHIKHALI,
+DIST PUNE,410501
+MAHARASHTRA
+GSTIN :
+Unit
+
+27AAACT2727Q1ZW
+
+Value Rs.
+
+Rate Rs.
+
+Total
+
+Disc.
+
+27
+
 1
 
-Description
-ZCMT100308R JC8015
+2853 2651 0123
 
-Item Code
-HSN/SAC
-34479992110 82090090
+TOP COVER COMPLETE ASSY
 
-Quantity
-100
+150.00 NOS
 
-Nos
+1231.13
 
-Rate
-₹ 379.22
+184669.50
 
-Amount
-₹ 37,922.00
+0.00
 
-Total Qty:    100 Nos.
+184669.50
 
-In Words
+BASIC VALUE
 
-Tax Breakup
+DISCOUNTED VALUE
 
-HSN/SAC
-82090090
+TRANSACTION VALUE
 
-Net Total
-CGST 9%
-SGST 9%
+CGST
 
-Grand Total
-Rounded Total
+SGST
 
-₹ 37,922.00
-₹ 3,412.98
-₹ 3,412.98
-₹ 44,747.96
-₹ 44,748.00
+SUB TOTAL
 
-INR Forty Four Thousand,
-Seven Hundred And Forty
-Eight only.
+ROUNDING
 
-Taxable Amount
-₹ 37,922.00
+@
+@
 
-CGST 9%
-(9.0%) ₹ 3,412.98
+14.00
 
-SGST 9%
-(9.0%) ₹ 3,412.98
+14.00
 
-Declaration: We declare that this invoice shows the actual price of
-the goods described and that all particulars are true and correct.
-Subject to Pune Jurisdiction:
-Bank Name: INDUSIND BANK , Bank A/c:
-650014043993, Bank IFSC Code: INDB0000002,
-Branch: Camp Pune
+% 
+% 
 
-For Valiant India
+184669.50
 
-Page 1 of 1
+184669.50
+
+184669.50
+
+25853.73
+
+25853.73
+
+236376.96
+
+0.04
+
+9076745717
+
+TOTAL INVOICE VALUE (IN WORDS) Rs. :
+
+Two Lac Thirty Six Thousand Three Hundred Seventy Seven Only.
+
+TOTAL GST  Amt. (IN WORDS) Rs.
+
+Fifty One Thousand Seven Hundred Seven paise Fourty Six Only.
+
+Electronic Reference Number
+
+241098140283
+
+Date & Time of Removal : 15/04/2019
+
+ 7:50:43 am
+
+INVOICE TOTAL Rs.
+
+236377.00
+
+Certified that the particulars given herein above are true and correct and the amount indicated in this invoice represents the price actually charges by us 
+and that there is no additional consideration following directly or indirectly from such sales over & above what has been Declared.
+
+I/We hereby certify that my/our registration certificate under the 
+GSTIN Act. 2017 is in force on the date on wich the supply of the 
+goods specified in this Tax Invoice is made by me/us and that the 
+transaction of sale covered by this tax Invoice has been effected 
+by me/us and it shall be accounted for in the turnover of sale 
+while filling of return and the due tax, if any, payable on the sale 
+has been paid or shall be paid.
+All Transactions are Subject to Mumbai Jurisdiction. E. & O.E.
+
+FOR 
+
+MUNGI ENGINEERS PVT LTD B12
+
+Receiver's Stamp & Signature
+
+15-04-2019   9:52:51
+PUNE
+
+Authorized Signatory
+
+Regd. Office : Unit No. 132, 1st Floor, Hubtown Solaris, N.S. Phadake Marg, Opp Teli Galli, Andheri (E) Mumbai - 400069. Maharashtra, INDIA.
 
 

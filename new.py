@@ -8,5 +8,5 @@ my_QR.encode()
 os.rename(my_QR.filename,'new1.png') 
 os.system("sudo mv " + 'new1.png' + " ~/pdf_to_text") 
 
-print my_QR.filename
+print(my_QR.filename)
 
